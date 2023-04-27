@@ -1,1 +1,8 @@
-.vagrant
+.terrafor/
+*.backup
+*.hcl
+*.tfvars
+*.tfstate
+*.out
+*.info
+*key*
